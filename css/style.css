@@ -129,7 +129,7 @@ textarea.field {
 
 .header {
   background-color: #000000;
-  background-image: url("../images/banner-bg.jpg");
+  background-image: url("../img/banner-bg.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -237,19 +237,19 @@ textarea.field {
 }
 
 .trend-garden {
-  background-image: url("../images/trend1.jpg");
+  background-image: url("../img/trend1.jpg");
 }
 
 .trend-cheese {
-  background-image: url("../images/trend2.jpg");
+  background-image: url("../img/trend2.jpg");
 }
 
 .trend-mountain {
-  background-image: url("../images/trend3.jpg");
+  background-image: url("../img/trend3.jpg");
 }
 
 .trend-lemon {
-  background-image: url("../images/trend4.jpg");
+  background-image: url("../img/trend4.jpg");
 }
 
 .trend-card {
@@ -871,7 +871,7 @@ textarea.field {
 @media (min-width: 641px) and (max-width: 1050px) {
 
   .header {
-    background-image: url("../images/banner-bg-tablet.jpg");
+    background-image: url("../img/banner-bg-tablet.jpg");
     padding-top: 45px;
   }
 
@@ -939,7 +939,7 @@ textarea.field {
   }
 
   .header {
-    background-image: url("../images/banner-mobile.jpg");
+    background-image: url("../img/banner-mobile.jpg");
     padding-top: 30px;
     padding-bottom: 210px;
   }
